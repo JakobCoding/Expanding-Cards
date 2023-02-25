@@ -1,2 +1,2 @@
 # Expanding-Cards
-Basic Project Interactive Layout Project built with HTML, JavaScript and CSS 
+This is a Basic Interactive Project built with HTML, JavaScript and CSS. 
